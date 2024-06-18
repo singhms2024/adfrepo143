@@ -1,0 +1,9 @@
+{
+	"name": "hddemoadf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7b2daf5d-a8e8-4dbc-96c5-4a88e308a8a4",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
